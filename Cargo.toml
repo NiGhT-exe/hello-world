@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2024"
 authors = ["NiGhT-exe"]
 description = "Hello World"
-repository = "None"
+repository = "https://github.com/NiGhT-exe/hello-world"
+homepage = "https://github.com/NiGhT-exe/hello-world"
 license = "MIT"
 
 [dependencies]
