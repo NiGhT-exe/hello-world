@@ -1,0 +1,13 @@
+[package]
+name = "hello"
+version = "0.1.0"
+edition = "2024"
+authors = ["NiGhT-exe"]
+description = "Hello World"
+repository = "None"
+license = "MIT"
+
+[dependencies]
+
+[[bin]]
+name = "hello"
